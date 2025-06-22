@@ -1,0 +1,13 @@
+<svg width='700' height='800' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='600' cy='100' r='10' fill='blue'/><text x='612' y='104' font-size='16'>Chennai</text>
+<circle cx='100' cy='400' r='10' fill='blue'/><text x='112' y='404' font-size='16'>Coimbatore</text>
+<circle cx='300' cy='600' r='10' fill='blue'/><text x='312' y='604' font-size='16'>Madurai</text>
+<circle cx='350' cy='450' r='10' fill='blue'/><text x='362' y='454' font-size='16'>Tiruchirappalli</text>
+<circle cx='200' cy='300' r='10' fill='blue'/><text x='212' y='304' font-size='16'>Salem</text>
+<circle cx='250' cy='700' r='10' fill='blue'/><text x='262' y='704' font-size='16'>Tirunelveli</text>
+<circle cx='400' cy='200' r='10' fill='blue'/><text x='412' y='204' font-size='16'>Vellore</text>
+<circle cx='150' cy='350' r='10' fill='blue'/><text x='162' y='354' font-size='16'>Erode</text>
+<circle cx='350' cy='750' r='10' fill='blue'/><text x='362' y='754' font-size='16'>Thoothukudi</text>
+<circle cx='320' cy='500' r='10' fill='blue'/><text x='332' y='504' font-size='16'>Dindigul</text>
+<polyline points='600,100 200,300 150,350 ' fill='none' stroke='red' stroke-width='5'/>
+</svg>
